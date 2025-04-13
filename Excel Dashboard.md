@@ -1,0 +1,6 @@
+# Coffee-Sales-Excel-Dashboard
+ The objective of this project is to analyze business performance and customer behavior using a structured coffee sales dataset. The dataset contains multiple sheets with information on orders, customers, products, and summary statistics such as top-performing customers and country-wise sales.
+All analysis in this project was conducted entirely using Microsoft Excel, making use of its core features such as Pivot Tables, Charts, VLOOKUP, and formula-based data manipulation. These tools allowed for the organization, cleaning, and visualization of sales data without the need for programming. Through this analysis, the project explores trends across coffee types (e.g., Arabica, Robusta), roast preferences (Light, Medium), product sizes, and customer buying patterns.
+The repository includes the original dataset (Coffee Sales.xlsx) and the detailed project report (INT217_Project_Report.docx), which documents the methodology, analysis, and key insights. This project demonstrates how Excel can serve as a powerful and accessible tool for data analysis in business scenarios. It is particularly useful for users with limited programming knowledge who wish to draw meaningful conclusions from real-world data.
+
+[Coffee Sales.xlsx](https://github.com/user-attachments/files/19725446/Coffee.Sales.xlsx)
